@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "merchant",
+      "attributes": {
+      "name": "Schroeder-Jerde"
+      }
+    },
+    {
+      "id": "2",
+      "type": "merchant",
+      "attributes": {
+      "name": "Klein, Rempel and Jones"
+      }
+    },
+    {
+      "id": "3",
+      "type": "merchant",
+      "attributes": {
+      "name": "Willms and Sons"
+      }
+    },
+    {
+      "id": "4",
+      "type": "merchant",
+      "attributes": {
+      "name": "Cummings-Thiel"
+      }
+    }
+  ]
+}
