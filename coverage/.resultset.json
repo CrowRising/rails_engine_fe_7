@@ -9,13 +9,85 @@
           null
         ]
       },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/controllers/merchants_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/controllers/application_controller.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/facades/merchant_facade.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/poros/merchant.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/services/merchant_service.rb": {
         "lines": [
           null,
           null,
           1,
           1,
-          1,
+          0,
           null,
           null,
           1,
@@ -23,13 +95,13 @@
           null,
           null,
           1,
-          1,
+          0,
           null,
           null,
           1,
           null,
           1,
-          3,
+          1,
           null,
           null
         ]
@@ -58,11 +130,60 @@
         "branches": {
         }
       },
-      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/controllers/application_controller.rb": {
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/controllers/merchant_items_controller.rb": {
         "lines": [
-          null,
+          0,
           null,
           0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/facades/merchant_items_facade.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/facades/merchants_facade.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
           0
         ],
         "branches": {
@@ -105,8 +226,51 @@
         ],
         "branches": {
         }
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/poros/merchant_item.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/crowrising/Turing/3Mod/TakeTwo/Challenge_Week/rails_engine_fe_7/app/services/merchant_items_service.rb": {
+        "lines": [
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1689883488
+    "timestamp": 1689903875
   }
 }

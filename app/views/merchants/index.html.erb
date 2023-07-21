@@ -1,0 +1,7 @@
+<h2>Merchants</h2>
+<br>
+<div id="merchants">
+<% @merchants.each do |merchant| %>
+  <h3><%= link_to "#{merchant.name}", merchant_path(merchant.id) %></h3>
+<% end %>
+</div>
